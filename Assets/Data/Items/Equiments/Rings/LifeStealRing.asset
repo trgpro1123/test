@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af35642659ccdf45a9149d7c3f0b76a, type: 3}
+  m_Name: LifeStealRing
+  m_EditorClassIdentifier: 
+  itemType: 1
+  defaultItemName: 
+  icon: {fileID: 21300000, guid: eb84ff207f193fe4f98d775d23f3e4ce, type: 3}
+  dropChance: 0
+  itemID: b7c32226d17f03543803b167eff85067
+  itemNameKey: LifeStealRing
+  itemDescriptionKey: 
+  tableReference: RingItem
+  equipmentType: 7
+  itemCooldown: 0
+  health: 0
+  strength: 0
+  armor: 0
+  agility: 0
+  moveSpeed: 0
+  lifesteal: 1
+  critChance: 0
+  magicPower: 0
+  magicResistance: 0
+  magicRegeneration: 0
+  luck: 0
+  coolDown: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: fac897f7a74e75a468a9d097d0ae66ff, type: 2}
+    stackSize: 5
+  - itemData: {fileID: 11400000, guid: 468184b8730dab844bef22d495b826f3, type: 2}
+    stackSize: 3
+  - itemData: {fileID: 11400000, guid: 4a268eefd9036754ab498030899dec57, type: 2}
+    stackSize: 2

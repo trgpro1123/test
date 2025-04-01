@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af35642659ccdf45a9149d7c3f0b76a, type: 3}
+  m_Name: ManaRegenerationRing
+  m_EditorClassIdentifier: 
+  itemType: 1
+  defaultItemName: 
+  icon: {fileID: 21300000, guid: 8adbce8f2ebca884c926fdf3dba744bf, type: 3}
+  dropChance: 0
+  itemID: ed52810089ca7df44be671cfebe0bceb
+  itemNameKey: ManaRegenerationRing
+  itemDescriptionKey: 
+  tableReference: RingItem
+  equipmentType: 7
+  itemCooldown: 0
+  health: 0
+  strength: 0
+  armor: 0
+  agility: 0
+  moveSpeed: 0
+  lifesteal: 0
+  critChance: 0
+  magicPower: 0
+  magicResistance: 0
+  magicRegeneration: 5
+  luck: 0
+  coolDown: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 4315e84cd0bc82948a457a2a0cb1a1db, type: 2}
+    stackSize: 2
+  - itemData: {fileID: 11400000, guid: 5fc0e064f94b01449a5f800215f2c957, type: 2}
+    stackSize: 4
+  - itemData: {fileID: 11400000, guid: 4a268eefd9036754ab498030899dec57, type: 2}
+    stackSize: 1

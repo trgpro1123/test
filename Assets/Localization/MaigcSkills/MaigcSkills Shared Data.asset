@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MaigcSkills Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MaigcSkills
+  m_TableCollectionNameGuidString: 9f32326069da4bb49a0db98910fa6fc0
+  m_Entries:
+  - m_Id: 679229255680
+    m_Key: BloodRitual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699361914880
+    m_Key: BloodRitualDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 718383083520
+    m_Key: ChronoControl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742949122048
+    m_Key: ChronoControlDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 936994402304
+    m_Key: CooldownReduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974403399680
+    m_Key: CooldownReductionDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1029772406784
+    m_Key: CrystalisShift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057618391040
+    m_Key: CrystalisShiftDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1122751737856
+    m_Key: EnergyAbsorption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1979828400128
+    m_Key: EnergyAbsorptionDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2044823334912
+    m_Key: EnergyBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2078180634624
+    m_Key: EnergyBombDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097336020992
+    m_Key: EnergyFlow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2202701131776
+    m_Key: EnergyFlowDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2226856128512
+    m_Key: IonCannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2265779269632
+    m_Key: IonCannonDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2303494451200
+    m_Key: LifeReap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327821414400
+    m_Key: LifeReapDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2358989287424
+    m_Key: LifeforceRestoration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2383119118336
+    m_Key: LifeforceRestorationDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411472613376
+    m_Key: Luckyyy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2440266510336
+    m_Key: LuckyyyDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2693061406720
+    m_Key: ManaFree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2712019660800
+    m_Key: ManaFreeDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2730709479424
+    m_Key: ManaReservoir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2758358331392
+    m_Key: ManaReservoirDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2779799613440
+    m_Key: ManaResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2804931883008
+    m_Key: ManaResistanceDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2828084441088
+    m_Key: "Mana\u2019sGrace"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2855397748736
+    m_Key: "Mana\u2019sGraceDescription"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2877275238400
+    m_Key: MasterfulTechnique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2898984955904
+    m_Key: MasterfulTechniqueDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2914784899072
+    m_Key: UltimateExplosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939552264192
+    m_Key: UltimateExplosionDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2958510518272
+    m_Key: Winter'sDomain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984615866368
+    m_Key: Winter'sDomainDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440161587888141
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440161587888141
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741272167009

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Explosive Arrow
+  m_EditorClassIdentifier: 
+  skillType: 1
+  skillIcon: {fileID: 21300000, guid: 0fdb7df455e0d0341b95e0b6d360c41b, type: 3}
+  skillName: Explosive Arrow
+  skillPrice: 3000
+  skillDescription: "B\u1EAFn ra 1 m\u0169i t\xEAn, ph\xE1t n\u1ED5 khi tr\xFAng
+    \u0111\xEDch g\xE2y <color=#FF0000>X(+X%) Strength </color>."
+  nameKey: ExplosiveArrow
+  descriptionKey: ExplosiveArrowDescription
+  tableName: BowSkills

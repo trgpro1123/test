@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BootsItem_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 41a49899872c0754f87120a2d91ab4d1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 14083944448
+    m_Localized: High-Quality Steel Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40256401408
+    m_Localized: Steel Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67368382464
+    m_Localized: Premium Steel Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80890818560
+    m_Localized: High-Quality Magic Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103137406976
+    m_Localized: Magic Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123538501632
+    m_Localized: Premium Magic Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136893165568
+    m_Localized: High-Quality Warrior Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155817865216
+    m_Localized: Premium Warrior Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175816306688
+    m_Localized: Warrior Boots
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

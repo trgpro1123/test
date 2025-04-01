@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SwordSkills Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: SwordSkills
+  m_TableCollectionNameGuidString: 535b236ee72678d4da0ef957f54a64ad
+  m_Entries:
+  - m_Id: 657611812864
+    m_Key: ' BladeCyclone'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677543145472
+    m_Key: ' BladeCycloneDescription'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699022176256
+    m_Key: BladeThrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728914980864
+    m_Key: BladeThrowDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 745490870272
+    m_Key: BlinkBlade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772401524736
+    m_Key: BlinkBladeDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 787165474816
+    m_Key: ChaosSlashes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 809412063232
+    m_Key: ChaosSlashesDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830685573120
+    m_Key: CriticalRush
+    m_Metadata:
+      m_Items: []
+  - m_Id: 858065989632
+    m_Key: CriticalRushDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879440162816
+    m_Key: DancingBlades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 907227426816
+    m_Key: DancingBladesDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 926282149888
+    m_Key: FrenziedFury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956279812096
+    m_Key: FrenziedFuryDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 972687929344
+    m_Key: HeavyCutter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991411302400
+    m_Key: HeavyCutterDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009262260224
+    m_Key: OverwhelmingPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1041243828224
+    m_Key: OverwhelmingPowerDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1059325472768
+    m_Key: PassThroughArmor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090195550208
+    m_Key: PassThroughArmorDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108952477696
+    m_Key: PowerBoost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1142305583104
+    m_Key: PowerBoostDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1160894738432
+    m_Key: Slash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1190359724032
+    m_Key: SlashDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1208537837568
+    m_Key: SuddenDeath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1236559982592
+    m_Key: SuddenDeathDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1256759750656
+    m_Key: SwiftDash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379535417344
+    m_Key: SwiftDashDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455976607744
+    m_Key: SwordAura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1475903746048
+    m_Key: SwordAuraDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490734804992
+    m_Key: ThousandCuts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1520468226048
+    m_Key: ThousandCutsDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440161587888142
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440161587888142
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741273385360

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 038d11c76fc82a446ae91b4a972ab4c1, type: 3}
+  m_Name: Give Soul Crystal
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "B\u1EA1n \u0111\xE3 l\xE0m t\u1ED1t l\u1EAFm. Ch\u1EC9 c\u1EA7n m\u1ED9t ch\xFAt
+    n\u1EEFa th\xF4i, v\xE0 m\u1ECDi chuy\u1EC7n s\u1EBD k\u1EBFt th\xFAc."
+  - "B\u1EA1n \u0111\xE3 c\xF3 \u0111\u1EE7 4 tinh th\u1EC3 linh h\u1ED3n ch\u01B0a?"
+  response:
+  - responseText: "S\u1EB5n s\xE0ng."
+    dialogueObject: {fileID: 0}
+    button: {fileID: 6996989511103530536, guid: ad2c990b3c0c09a469543e32379508a5, type: 3}
+    responseTextKey: GiveSoulCrystalsRespone2
+  - responseText: "T\xF4i c\u1EA7n chu\u1EA9n b\u1ECB th\xEAm "
+    dialogueObject: {fileID: 11400000, guid: c1499000a679a90498632bfe73f7f6bf, type: 2}
+    button: {fileID: 0}
+    responseTextKey: GiveSoulCrystalsRespone3
+  tableReference: Dialogues
+  dialogueKeys:
+  - GiveSoulCrystals2_1
+  - GiveSoulCrystals2_2

@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StatusDescription Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StatusDescription
+  m_TableCollectionNameGuidString: 58ef39e695e12ae46a82082f2efed1dc
+  m_Entries:
+  - m_Id: 90562883584
+    m_Key: FrenziedFuryStatusDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728050954240
+    m_Key: RampageWarcryStatusDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 779091439616
+    m_Key: BreakingTheLimitsStatusDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 829251121152
+    m_Key: ResoluteFortressStatusDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 899283415040
+    m_Key: ChallengingFateStatusDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956493721600
+    m_Key: CrystalisShiftStatusDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005378334720
+    m_Key: BloodRitulStatusDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1071212130304
+    m_Key: StarbreakerDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273945453916160
+    m_Key: BuffAgilityEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273990047756288
+    m_Key: BuffArmorEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274006925635584
+    m_Key: BuffCoolDownEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274023501524992
+    m_Key: BuffCritChanceEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274038429052928
+    m_Key: BuffLuckEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274056716218368
+    m_Key: BuffMagicPowerEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274068124725248
+    m_Key: BuffMagicResistanceEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274083899502592
+    m_Key: BuffMoveEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274095438032896
+    m_Key: BuffStrengthEffectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982628672466944
+    m_Key: DisorderDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986576779210752
+    m_Key: SpeedUpDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1056864049033216
+    m_Key: SlowDownDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440224023248898
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440224023248898
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741511549938

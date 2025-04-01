@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GauntletSkills Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GauntletSkills
+  m_TableCollectionNameGuidString: 996d8cfcb10cc5b429493bf405a95134
+  m_Entries:
+  - m_Id: 724267692032
+    m_Key: BreakingtheLimits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741921517568
+    m_Key: BreakingtheLimitsDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817687425024
+    m_Key: ChallengingFate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 841108418560
+    m_Key: ChallengingFateDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 862247710720
+    m_Key: CrushingImpact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 919088918528
+    m_Key: CrushingImpactDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 945596919808
+    m_Key: DizzyingStrike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 997673398272
+    m_Key: DizzyingStrikeDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1017776697344
+    m_Key: EarthquakeJump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061561036800
+    m_Key: EarthquakeJumpDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083673407488
+    m_Key: EmpoweredFist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115483009024
+    m_Key: EmpoweredFistDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1133002616832
+    m_Key: EnergyPalm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158231355392
+    m_Key: EnergyPalmDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1177328021504
+    m_Key: Forcewave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1204637134848
+    m_Key: ForcewaveDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1250241802240
+    m_Key: IroncladBody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1280335933440
+    m_Key: IroncladBodyDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1310199377920
+    m_Key: ObliteratingPunch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1385227087872
+    m_Key: ObliteratingPunchDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412439732224
+    m_Key: Punch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1436766695424
+    m_Key: PunchDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454990946304
+    m_Key: RampageWarcry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1482434277376
+    m_Key: RampageWarcryDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1526189256704
+    m_Key: ResoluteFortress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539678138368
+    m_Key: ResoluteFortressDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561526267904
+    m_Key: SavageBarrage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1605809729536
+    m_Key: SavageBarrageDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632724578304
+    m_Key: SeismicShockwave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1658523742208
+    m_Key: SeismicShockwaveDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3490595729408
+    m_Key: StalwartVitality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3545457225728
+    m_Key: StalwartVitalityDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440161587888140
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440161587888140
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741271280719

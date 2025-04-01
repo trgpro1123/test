@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StatsDescription_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9a722746af27ecd4e9762b914248fddc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11563167744
+    m_Localized: Health stat (1 point equals 1 maximum health point).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90122481664
+    m_Localized: 'Strength stat, increases physical attack power '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120250167296
+    m_Localized: 'Armor stat, reduces incoming physical damage '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210209599488
+    m_Localized: Agility stat, increases the chance to dodge attacks (maximum 50).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247220137984
+    m_Localized: 'Movement speed stat '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316006723584
+    m_Localized: Life steal stat, heals based on damage dealt (1 points increase
+      by 0.1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365298184192
+    m_Localized: Critical hit stat, deals double damage on critical hits (maximum
+      100).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431765319680
+    m_Localized: Magic resistance stat, reduces incoming magic damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394121441280
+    m_Localized: Magic power stat, increases magic power (1 magic point equals 3
+      maximum energy points).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476627595264
+    m_Localized: Energy regeneration stat, increases energy regeneration rate (10
+      points restore 1 energy per second).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564808642560
+    m_Localized: Luck stat, increases C.Chance, item drop rate. (1 points increase
+      by 1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576653357056
+    m_Localized: Cooldown reduction stat (maximum 50).
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

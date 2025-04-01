@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StatusDescription_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 58ef39e695e12ae46a82082f2efed1dc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 90562883584
+    m_Localized: In madness, the damage dealt is increased by 10%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728050954240
+    m_Localized: Strength, Armor, and M.Resistance are increased by 10%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 779091439616
+    m_Localized: Ability breakthrough increases all stats by 20%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 829251121152
+    m_Localized: Reduces damage taken by 15%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 899283415040
+    m_Localized: You become immortal for 10 seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956493721600
+    m_Localized: Teleportation Crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005378334720
+    m_Localized: Strength and M.Power are increased by 15%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1071212130304
+    m_Localized: In 5 seconds, you can fire 3 beams of destruction, dealing <color=#00FFFF>X(+X%)
+      Magic Power</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273945453916160
+    m_Localized: Increase 10 points of Agility for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273990047756288
+    m_Localized: Increase 10 points of Armor for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274006925635584
+    m_Localized: Increase 20 points of Coodown for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274023501524992
+    m_Localized: Increase 10 points of C.Chance for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274038429052928
+    m_Localized: Increase 10 points of Luck for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274056716218368
+    m_Localized: Increase 20 points of M.Power for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274068124725248
+    m_Localized: Increase 10 points of M.Resistance for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274083899502592
+    m_Localized: Increase 1 points of M.Speed for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274095438032896
+    m_Localized: Increase 20 points of Strength for 300 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982628672466944
+    m_Localized: You fall into a state of disorder.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986576779210752
+    m_Localized: You gain 1 movement speed point.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1056864049033216
+    m_Localized: You lose 1 movement speed point
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

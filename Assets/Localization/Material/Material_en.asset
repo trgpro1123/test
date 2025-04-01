@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Material_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a807ad88f53a0bd4eb9e4f88be26c391, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 123459882971136
+    m_Localized: Adamantine ingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123479839469568
+    m_Localized: Essence of darkness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123525171507200
+    m_Localized: Gold ingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123642779791360
+    m_Localized: Ice orb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123710559744000
+    m_Localized: Iron ingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123752402120704
+    m_Localized: Leather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123774447382528
+    m_Localized: Silver ingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123850112626688
+    m_Localized: Devil's eye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123867829366784
+    m_Localized: Holy scroll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123910879703040
+    m_Localized: Ice crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123938763436032
+    m_Localized: Lucky leaf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125021493653504
+    m_Localized: Steel ingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1076075433553920
+    m_Localized: Soul Crystal
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

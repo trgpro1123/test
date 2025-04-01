@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialogues_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 466491b5d745d5b4c973e199a887b2f9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2420089902592000
+    m_Localized: You must be confused and full of questions. I understand. I, too,
+      have many. In truth, I may not be able to answer everything, but I will tell
+      you what I know.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420080004034560
+    m_Localized: Hello.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420040544022528
+    m_Localized: Is someone there?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420013604007936
+    m_Localized: ...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 570458370048
+    m_Localized: ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420568816611328
+    m_Localized: Where is this place?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420672948596736
+    m_Localized: This is a special space... a prison created by those who were once
+      my closest comrades. But they betrayed me. They sealed me away here, imprisoning
+      me for countless years.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420768180269056
+    m_Localized: I have lost almost all of my power. Every attempt to escape has
+      failed. And now, all I can do... is create a stone altar that absorbs energy
+      from the natural flow, forming simulated spaces to contain Soul Crystals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420779353894912
+    m_Localized: But in my current state, they are of little use to me. I need someone...
+      someone who can enter those spaces and collect the Soul Crystals on my behalf.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420809078927360
+    m_Localized: Will you help me? If you break my seal, I promise to restore your
+      lost memories and help you escape this place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421458566901760
+    m_Localized: ...Alright. I'll help.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421532558618624
+    m_Localized: Wonderful. Thank you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421564267556864
+    m_Localized: Before you begin, I will transfer a portion of my remaining power
+      to you. It will help you survive the trials ahead.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421575470542848
+    m_Localized: "And don\u2019t worry about death. I will grant you a special blessing\u2014each
+      time you fall, you will return. No matter how many times you fail, you can
+      always continue."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421588560965632
+    m_Localized: I need 4 soul crystals to restore power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2426150390853632
+    m_Localized: Step onto the altar... and good luck.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2428733318754304
+    m_Localized: If you fail don't be discouraged try again. By my blessing. You
+      can still come back. Every time you fight, you will be stronger.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2434731664207872
+    m_Localized: Give SoulCrystals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2434745996144640
+    m_Localized: Before you were sealed... who were you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2434749016043520
+    m_Localized: Nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435169620848640
+    m_Localized: ... That's an interesting question. But unfortunately, my memories
+      are not intact.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435184418353152
+    m_Localized: All I remember is that... I was very strong. Strong enough to make
+      those who called me "comrades" fear and betray me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435318468308992
+    m_Localized: They sealed you because they were afraid you were stronger than
+      them?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435437347467264
+    m_Localized: Who knows? Maybe they thought I was a threat. Maybe I really did
+      something to make them hate me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435682601005056
+    m_Localized: But that doesn't matter anymore. What matters is breaking this seal.
+      And to do that... I need you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2436022742282240
+    m_Localized: ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2436301516697600
+    m_Localized: 'You did great. Just a little more, and it will be over. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437055753220096
+    m_Localized: Do you have 4 soul crystals yet?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437343549583360
+    m_Localized: I have enough.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437359857037312
+    m_Localized: I need to prepare more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479479603064832
+    m_Localized: I did as I was told, help me regain my memories and return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479907052974080
+    m_Localized: Ha... Ha ha ha... Finally...!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479925075898368
+    m_Localized: Freedom! After all these years... I've finally escaped from this
+      damn prison!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480007884042240
+    m_Localized: You won't get what you want
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480176864161792
+    m_Localized: Hahaha... Oh, how naive. Did you really believe in that promise?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480188406886400
+    m_Localized: I was the one who summoned you here and sealed your memories so
+      that you could help me break the seal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480202264866816
+    m_Localized: Although I've removed the seal, it seems that my body is too worn
+      out and I need a new host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480215283986432
+    m_Localized: And that person is you. But don't worry, I'll keep my promise in
+      another way. I'll free you from all your bonds... with my own hands!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480229750140928
+    m_Localized: Now, enjoy your moment of despair... before I end it all!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619635349843968
+    m_Localized: No... it can't be... I've waited all these years... I can't bear
+      it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2621087946371072
+    m_Localized: You lost, I'll use your power to regain my memories and get out
+      of here
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

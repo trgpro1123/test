@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Status_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 29eaf9d3759cd0241a06d501b805b268, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11097326743552
+    m_Localized: Starbreaker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11145980669952
+    m_Localized: Breaking The Limits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11189597237248
+    m_Localized: Rampage Warcry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11245066907648
+    m_Localized: Resolute Fortress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279799939072
+    m_Localized: Blood Ritual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317309599744
+    m_Localized: Crystalis Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11353342865408
+    m_Localized: Frenzied Fury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11395927633920
+    m_Localized: Challenging Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721192855531520
+    m_Localized: Buff Agility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721285369294848
+    m_Localized: Buff Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721382844919808
+    m_Localized: Buff Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721451967049728
+    m_Localized: 'Buff Crit Chance '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721522431356928
+    m_Localized: 'Buff Luck '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721559815188480
+    m_Localized: 'Buff Magic Power '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721645408350208
+    m_Localized: 'Buff Magic Resistance '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721687049400320
+    m_Localized: Buff Move Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721758855884800
+    m_Localized: 'Buff Strength '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1432139853197312
+    m_Localized: Disorder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1505753839431680
+    m_Localized: SpeedUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1505892096274432
+    m_Localized: Slow Down
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

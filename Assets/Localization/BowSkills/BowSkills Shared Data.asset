@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: BowSkills Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: BowSkills
+  m_TableCollectionNameGuidString: 9eac3bb8fc8cd4741ad03d205f07575e
+  m_Entries:
+  - m_Id: 68727336960
+    m_Key: Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146238074880
+    m_Key: ShotDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6471609217024
+    m_Key: BreakthroughShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7667782774784
+    m_Key: BreakthroughShotDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7861966467072
+    m_Key: CometDrop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7969168683008
+    m_Key: CometDropDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8177810141184
+    m_Key: "Doppelg\xE4nger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8207073800192
+    m_Key: "Doppelg\xE4ngerDescription"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272332976128
+    m_Key: ExplosiveArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8424972087296
+    m_Key: ExplosiveArrowDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8465677807616
+    m_Key: FlurryofArrows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8492613627904
+    m_Key: FlurryofArrowsDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8578752049152
+    m_Key: ManaPulse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8611736055808
+    m_Key: ManaPulseDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8682468798464
+    m_Key: Mana-infusedShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8778971344896
+    m_Key: Mana-infusedShotDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841747492864
+    m_Key: PerfectState
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8895640104960
+    m_Key: PerfectStateDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8929697853440
+    m_Key: PiercingShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9030960934912
+    m_Key: PiercingShotDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9080122372096
+    m_Key: Quickdraw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9104751325184
+    m_Key: QuickdrawDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9153875013632
+    m_Key: Starbreaker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215782940672
+    m_Key: StarbreakerDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9274100543488
+    m_Key: SwiftReflexes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9304530219008
+    m_Key: SwiftReflexesDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9468615585792
+    m_Key: VolleyofArrows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9487238295552
+    m_Key: VolleyofArrowsDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9553105645568
+    m_Key: Windwalker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9578204360704
+    m_Key: WindwalkerDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9814561779712
+    m_Key: WoundoftheArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9837273935872
+    m_Key: WoundoftheArrowDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440161587888128
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440161587888128
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741268433395

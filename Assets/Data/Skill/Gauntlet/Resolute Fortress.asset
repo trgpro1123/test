@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Resolute Fortress
+  m_EditorClassIdentifier: 
+  skillType: 0
+  skillIcon: {fileID: 21300000, guid: ced19f057c3a5a74abebbb8cd796894b, type: 3}
+  skillName: Resolute Fortress
+  skillPrice: 6000
+  skillDescription: "Khi m\xE1u gi\u1EA3m xu\u1ED1ng 30% m\xE1u gi\u1EA3m 15% s\xE1t
+    th\u01B0\u01A1ng nh\u1EADn v\xE0o."
+  nameKey: ResoluteFortress
+  descriptionKey: ResoluteFortressDescription
+  tableName: GauntletSkills

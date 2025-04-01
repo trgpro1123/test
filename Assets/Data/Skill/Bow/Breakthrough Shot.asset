@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Breakthrough Shot
+  m_EditorClassIdentifier: 
+  skillType: 0
+  skillIcon: {fileID: 21300000, guid: 156eb55fa3c2a964ba11d507c5471f18, type: 3}
+  skillName: 'Breakthrough Shot '
+  skillPrice: 6000
+  skillDescription: "Khi t\u1EA5n c\xF4ng th\u01B0\u1EDDng b\u1EB1ng cung c\xF3 20%
+    b\u1EAFn 1 m\u0169i t\xEAn xuy\xEAn ph\xE1 g\xE2y <color=#FF0000>250% Strength</color>
+    .\n"
+  nameKey: BreakthroughShot
+  descriptionKey: BreakthroughShotDescription
+  tableName: BowSkills

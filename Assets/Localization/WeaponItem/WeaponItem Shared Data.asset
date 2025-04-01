@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: WeaponItem Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: WeaponItem
+  m_TableCollectionNameGuidString: 0eed161a1c39b03448a048704f1c48af
+  m_Entries:
+  - m_Id: 251158589440
+    m_Key: Adamantine Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262428684288
+    m_Key: Bow One of the Final Masterpieces of the Legendary Blacksmith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364740341760
+    m_Key: Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371983904768
+    m_Key: Godslayer Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390510145536
+    m_Key: High-Quality Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408998637568
+    m_Key: Steel Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444230791168
+    m_Key: Champion's Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450740350976
+    m_Key: Gauntlet Adamantine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468121546752
+    m_Key: Gauntlet One of the Final Masterpieces of the Legendary Blacksmith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496240160768
+    m_Key: Godslayer Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513248063488
+    m_Key: Iron Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527848435712
+    m_Key: Steel Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541773524992
+    m_Key: Adamantine Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 562745044992
+    m_Key: Bloodthirsty Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585461395456
+    m_Key: Godslayer Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601533968384
+    m_Key: Iron Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609754804224
+    m_Key: Steel Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641631514624
+    m_Key: Sword One of the Final Masterpieces of the Legendary Blacksmith
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440252915712007
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440252915712007
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741618563364

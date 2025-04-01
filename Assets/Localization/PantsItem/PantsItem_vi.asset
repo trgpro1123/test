@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PantsItem_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 0a054b680ad5336499d8980f66fc9da8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31540637696
+    m_Localized: "Qu\u1EA7n th\xE9p ch\u1EA5t l\u01B0\u1EE3ng cao"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51241283584
+    m_Localized: "Qu\u1EA7n th\xE9p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73689198592
+    m_Localized: "Qu\u1EA7n th\xE9p cao c\u1EA5p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105096146944
+    m_Localized: "Qu\u1EA7n ph\xE9p ch\u1EA5t l\u01B0\u1EE3ng cao"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114457833472
+    m_Localized: "Qu\u1EA7n ph\xE9p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132610781184
+    m_Localized: "Qu\u1EA7n ph\xE9p cao c\u1EA5p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152173015040
+    m_Localized: "Qu\u1EA7n chi\u1EBFn binh ch\u1EA5t l\u01B0\u1EE3ng cao"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173714960384
+    m_Localized: "Qu\u1EA7n chi\u1EBFn binh cao c\u1EA5p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190626394112
+    m_Localized: "Qu\u1EA7n chi\u1EBFn binh"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

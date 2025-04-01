@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: WeaponItem_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 0eed161a1c39b03448a048704f1c48af, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 251158589440
+    m_Localized: Cung Adamantine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262428684288
+    m_Localized: "Cung: 1 trong nh\u1EEFng tuy\u1EC7t t\xE1c cu\u1ED1i c\xF9ng c\u1EE7a
+      th\u1EE3 r\xE8n huy\u1EC1n tho\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364740341760
+    m_Localized: Cung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371983904768
+    m_Localized: "Cung s\xE1t th\u1EA7n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390510145536
+    m_Localized: "Cung ch\u1EA5t l\u01B0\u1EE3ng cao"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408998637568
+    m_Localized: "Cung th\xE9p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444230791168
+    m_Localized: "G\u0103ng tay c\u1EE7a qu\xE1n qu\xE2n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450740350976
+    m_Localized: "G\u0103ng tay Adamantine"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468121546752
+    m_Localized: "G\u0103ng tay: 1 trong nh\u1EEFng tuy\u1EC7t t\xE1c cu\u1ED1i c\xF9ng
+      c\u1EE7a th\u1EE3 r\xE8n huy\u1EC1n tho\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496240160768
+    m_Localized: "G\u0103ng tay s\xE1t th\u1EA7n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513248063488
+    m_Localized: "G\u0103ng tay s\u1EAFt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527848435712
+    m_Localized: "G\u0103ng tay th\xE9p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541773524992
+    m_Localized: "Ki\u1EBFm Adamantine"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 562745044992
+    m_Localized: "Ki\u1EBFm kh\xE1t m\xE1u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585461395456
+    m_Localized: "Ki\u1EBFm s\xE1t th\u1EA7n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601533968384
+    m_Localized: "Ki\u1EBFm s\u1EAFt "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609754804224
+    m_Localized: "Ki\u1EBFm th\xE9p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641631514624
+    m_Localized: "Thanh ki\u1EBFm: 1 trong nh\u1EEFng tuy\u1EC7t t\xE1c cu\u1ED1i
+      c\xF9ng c\u1EE7a th\u1EE3 r\xE8n huy\u1EC1n tho\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

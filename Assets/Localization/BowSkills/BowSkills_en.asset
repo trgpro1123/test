@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BowSkills_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9eac3bb8fc8cd4741ad03d205f07575e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 68727336960
+    m_Localized: Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146238074880
+    m_Localized: Fires an arrow that deals <color=#FF0000>80(+25%) Strength</color>
+      damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6471609217024
+    m_Localized: 'Breakthrough Shot '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7667782774784
+    m_Localized: When performing a normal attack with a bow, there is a 20% chance
+      to shoot a piercing arrow dealing <color=#FF0000>100% Strength</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7861966467072
+    m_Localized: Comet Drop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7969168683008
+    m_Localized: Shoot an arrow into the sky, and it will fall at the designated
+      location, dealing <color=#00FFFF>250(+60%) Magic Power</color>. After it explodes,
+      it will create a fire area that lasts for 10 seconds, dealing continuous damage
+      equal to <color=#00FFFF>10% Magic Power</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8177810141184
+    m_Localized: "Doppelg\xE4nger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8207073800192
+    m_Localized: Create an invulnerable, undetectable, immobile copy with 100% of
+      stats that attacks enemies with normal shots. The copy exists for 20 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272332976128
+    m_Localized: Explosive Arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8424972087296
+    m_Localized: Shoot an arrow that explodes on impact, dealing <color=#FF0000>200(+60%)
+      Strength</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8465677807616
+    m_Localized: Flurry of Arrows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8492613627904
+    m_Localized: Shoot arrows continuously for 5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8578752049152
+    m_Localized: Mana Pulse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8611736055808
+    m_Localized: Emit a mana pulse field that pushes enemies away.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8682468798464
+    m_Localized: Mana-infused Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8778971344896
+    m_Localized: Shoot a mana-enhanced arrow, dealing <color=#00FFFF>100(+50%) Magic
+      Power</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8841747492864
+    m_Localized: Perfect State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8895640104960
+    m_Localized: If health is above 90%, deal an additional 10% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8929697853440
+    m_Localized: Piercing Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9030960934912
+    m_Localized: Shoot a super-fast arrow that pierces through all obstacles, dealing
+      <color=#00FFFF>300(+50%) Magic Power</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9080122372096
+    m_Localized: Quickdraw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9104751325184
+    m_Localized: When attacking with a bow, there is a 30% chance to shoot an additional
+      arrow.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9153875013632
+    m_Localized: Starbreaker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215782940672
+    m_Localized: Within 5 seconds, shoot 3 destructive beams, each dealing <color=#00FFFF>400(+60%)
+      Magic Power</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9274100543488
+    m_Localized: Swift Reflexes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9304530219008
+    m_Localized: Increase Agility by 20 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9468615585792
+    m_Localized: Volley of Arrows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9487238295552
+    m_Localized: "Shoot a cone of arrows, each arrow dealing <color=#FF0000>50% Strength</color>
+      damage.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9553105645568
+    m_Localized: Windwalker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9578204360704
+    m_Localized: Increase move speed by 1 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9814561779712
+    m_Localized: Wound of the Arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9837273935872
+    m_Localized: When an enemy is hit by an arrow, there is a 20% chance to cause
+      bleeding (dealing 0.5% of their maximum health per second for 15 seconds).
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Dialogues Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Dialogues
+  m_TableCollectionNameGuidString: 466491b5d745d5b4c973e199a887b2f9
+  m_Entries:
+  - m_Id: 570458370048
+    m_Key: StaringConversation1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420013604007936
+    m_Key: StaringConversation1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420040544022528
+    m_Key: StaringConversation1_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420080004034560
+    m_Key: StaringConversation1_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420089902592000
+    m_Key: StaringConversation1_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420568816611328
+    m_Key: StaringConversationRespone1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420672948596736
+    m_Key: StaringConversation2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420768180269056
+    m_Key: StaringConversation2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420779353894912
+    m_Key: StaringConversation2_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2420809078927360
+    m_Key: StaringConversation2_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421458566901760
+    m_Key: StaringConversationRespone2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421532558618624
+    m_Key: StaringConversation3_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421564267556864
+    m_Key: StaringConversation3_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421575470542848
+    m_Key: StaringConversation3_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2421588560965632
+    m_Key: StaringConversation3_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2426150390853632
+    m_Key: StaringConversation3_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2428733318754304
+    m_Key: NomarDialogue1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2434731664207872
+    m_Key: GiveSoulCrystalsRespone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2434745996144640
+    m_Key: WhoAreYouRespone1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2434749016043520
+    m_Key: NothingRespone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435169620848640
+    m_Key: WhoAreYou2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435184418353152
+    m_Key: WhoAreYou2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435318468308992
+    m_Key: WhoAreYouRespone2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435437347467264
+    m_Key: WhoAreYou3_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2435682601005056
+    m_Key: WhoAreYou3_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2436022742282240
+    m_Key: WhoAreYouRespone3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2436301516697600
+    m_Key: GiveSoulCrystals2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437055753220096
+    m_Key: GiveSoulCrystals2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437343549583360
+    m_Key: GiveSoulCrystalsRespone2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437359857037312
+    m_Key: GiveSoulCrystalsRespone3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479479603064832
+    m_Key: BattleRepsone1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479907052974080
+    m_Key: Battle1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479925075898368
+    m_Key: Battle1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480007884042240
+    m_Key: BattleRespone2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480176864161792
+    m_Key: Battle2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480188406886400
+    m_Key: Battle2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480202264866816
+    m_Key: Battle2_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480215283986432
+    m_Key: Battle2_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2480229750140928
+    m_Key: Battle2_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619635349843968
+    m_Key: BossDie1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2621087946371072
+    m_Key: BossDieRespone
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440158521851906
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440158521851906
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741256982295

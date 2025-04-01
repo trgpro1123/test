@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GauntletSkills_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 996d8cfcb10cc5b429493bf405a95134, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 724267692032
+    m_Localized: Breaking the Limits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817687425024
+    m_Localized: Challenging Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 862247710720
+    m_Localized: Crushing Impact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 945596919808
+    m_Localized: Dizzying Strike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1017776697344
+    m_Localized: Earthquake Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083673407488
+    m_Localized: Empowered Fist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1133002616832
+    m_Localized: Energy Palm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1177328021504
+    m_Localized: Forcewave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1250241802240
+    m_Localized: Ironclad Body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1310199377920
+    m_Localized: Obliterating Punch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412439732224
+    m_Localized: Punch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454990946304
+    m_Localized: Rampage Warcry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1526189256704
+    m_Localized: Resolute Fortress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561526267904
+    m_Localized: Savage Barrage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632724578304
+    m_Localized: Seismic Shockwave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741921517568
+    m_Localized: Breakthrough ability increases all stats by 20%, but causes continuous
+      health loss for 30 seconds (can result in death).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 841108418560
+    m_Localized: When health drops to 20%, become immortal for 10 seconds (once per
+      battle).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 919088918528
+    m_Localized: When using Gauntlet, deal an additional 5% damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 997673398272
+    m_Localized: Attacks with the Gauntlet have a 10% chance to stun the target.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061561036800
+    m_Localized: Leap to a designated location and slam the ground, dealing <color=#FF0000>250(+60%)
+      Strength</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115483009024
+    m_Localized: Basic attack deals <color=#FF0000>150(+40%) Strength</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158231355392
+    m_Localized: Unleash 3 energy waves, each dealing <color=#FF0000>250(+40%) Strength</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1204637134848
+    m_Localized: Stun all nearby targets for 3 seconds and reduce their movement
+      speed by 50% for 10 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1280335933440
+    m_Localized: Increase Armor by 10 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1385227087872
+    m_Localized: Deliver a devastating punch, dealing <color=#FF0000>300(+100%) Strength</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1436766695424
+    m_Localized: A punch deals <color=#FF0000>100(+30%) Strength</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1482434277376
+    m_Localized: Increase Strength, Armor, and Magic Resistance by 10% for 30 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539678138368
+    m_Localized: When health drops to 30%, reduce incoming damage by 15%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1605809729536
+    m_Localized: Attack continuously in the designated direction, dealing <color=#FF0000>90(+30%)
+      Strength</color> over 5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1658523742208
+    m_Localized: Leap to a designated location, slam the ground, and create 3 aftershocks.
+      Each aftershock deals <color=#FF0000>200(+50%) Strength</color>. The aftershocks
+      deal more damage with each hit, but reduce damage by 20% each time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3490595729408
+    m_Localized: Stalwart Vitality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3545457225728
+    m_Localized: Increase Health by 100 points.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

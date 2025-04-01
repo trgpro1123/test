@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Chrono Control
+  m_EditorClassIdentifier: 
+  skillType: 1
+  skillIcon: {fileID: 21300000, guid: 1f7154fa3e07403419e9a15104dee55d, type: 3}
+  skillName: Chrono Control
+  skillPrice: 25000
+  skillDescription: "T\u1EA1o 1 v\xF9ng \u0111\xF3ng b\u0103ng th\u1EDDi gian, k\u1EBB
+    ch\u1ECBu \u1EA3nh h\u01B0\u1EDFng b\u1ECB d\u1EEBng th\u1EDDi gian, duy tr\xEC
+    \u0111\u01B0\u1EE3c 5 gi\xE2y."
+  nameKey: ChronoControl
+  descriptionKey: ChronoControlDescription
+  tableName: MaigcSkills

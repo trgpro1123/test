@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Quickdraw
+  m_EditorClassIdentifier: 
+  skillType: 0
+  skillIcon: {fileID: 21300000, guid: 360b69ba55f2e6546b6f475f00120a14, type: 3}
+  skillName: Quickdraw
+  skillPrice: 4000
+  skillDescription: "Khi t\u1EA5n c\xF4ng th\u01B0\u1EDDng b\u1EB1ng cung c\xF3 30%
+    b\u1EAFn th\xEAm 1 m\u0169i t\xEAn."
+  nameKey: Quickdraw
+  descriptionKey: QuickdrawDescription
+  tableName: BowSkills

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Ironclad Body
+  m_EditorClassIdentifier: 
+  skillType: 0
+  skillIcon: {fileID: 21300000, guid: af7621988a0e90247ab8045e5864d322, type: 3}
+  skillName: Ironclad Body
+  skillPrice: 3000
+  skillDescription: "T\u0103ng 20 \u0111i\u1EC3m ph\xF2ng th\u1EE7."
+  nameKey: IroncladBody
+  descriptionKey: IroncladBodyDescription
+  tableName: GauntletSkills

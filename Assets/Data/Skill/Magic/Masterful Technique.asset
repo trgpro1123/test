@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Masterful Technique
+  m_EditorClassIdentifier: 
+  skillType: 0
+  skillIcon: {fileID: 21300000, guid: 6d02fc8a55df5d5478a0b9b34ba89fc3, type: 3}
+  skillName: Masterful Technique
+  skillPrice: 20000
+  skillDescription: "H\u1ED3i l\u1EA1i 10% n\u0103ng l\u01B0\u1EE3ng khi s\u1EED
+    d\u1EE5ng k\u0129 n\u0103ng."
+  nameKey: MasterfulTechnique
+  descriptionKey: MasterfulTechniqueDescription
+  tableName: MaigcSkills

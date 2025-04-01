@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HelmetItem Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HelmetItem
+  m_TableCollectionNameGuidString: 06f5c0e0f69d676409562f67daddf3f3
+  m_Entries:
+  - m_Id: 53090971648
+    m_Key: High-Quality Steel Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64159739904
+    m_Key: Steel Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83386429440
+    m_Key: Premium Steel Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131469930496
+    m_Key: High-Quality Magic Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155926917120
+    m_Key: Magic Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174553821184
+    m_Key: Premium Magic Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 199283437568
+    m_Key: High-Quality Warrior Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208947113984
+    m_Key: Premium Warrior Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228073140224
+    m_Key: Warrior Helmet
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440252915712002
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440252915712002
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741617587710

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: WeaponItem_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0eed161a1c39b03448a048704f1c48af, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 251158589440
+    m_Localized: Adamantine Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262428684288
+    m_Localized: 'Bow: One of the Final Masterpieces of the Legendary Blacksmith'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 364740341760
+    m_Localized: Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371983904768
+    m_Localized: Godslayer Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390510145536
+    m_Localized: High-Quality Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 408998637568
+    m_Localized: Steel Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444230791168
+    m_Localized: Champion's Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450740350976
+    m_Localized: Gauntlet Adamantine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468121546752
+    m_Localized: 'Gauntlet: One of the Final Masterpieces of the Legendary Blacksmith'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496240160768
+    m_Localized: Godslayer Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513248063488
+    m_Localized: Iron Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527848435712
+    m_Localized: Steel Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541773524992
+    m_Localized: Adamantine Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 562745044992
+    m_Localized: Bloodthirsty Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585461395456
+    m_Localized: Godslayer Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601533968384
+    m_Localized: Iron Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609754804224
+    m_Localized: Steel Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641631514624
+    m_Localized: 'Sword: One of the Final Masterpieces of the Legendary Blacksmith'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

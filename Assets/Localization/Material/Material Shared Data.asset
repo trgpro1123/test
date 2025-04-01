@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Material Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Material
+  m_TableCollectionNameGuidString: a807ad88f53a0bd4eb9e4f88be26c391
+  m_Entries:
+  - m_Id: 123459882971136
+    m_Key: Adamantineingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123479839469568
+    m_Key: Essence of darkness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123525171507200
+    m_Key: Goldingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123642779791360
+    m_Key: Iceorb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123710559744000
+    m_Key: Ironingot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123752402120704
+    m_Key: Leather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123774447382528
+    m_Key: Silveringot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123850112626688
+    m_Key: Devil'seye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123867829366784
+    m_Key: Holyscroll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123910879703040
+    m_Key: Icecrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123938763436032
+    m_Key: LuckyLeaf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125021493653504
+    m_Key: SteelIngot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1076075433553920
+    m_Key: SoulCrystal
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5698440246486106112
+  references:
+    version: 2
+    RefIds:
+    - rid: 5698440246486106112
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741592294615

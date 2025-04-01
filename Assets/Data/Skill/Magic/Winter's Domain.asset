@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Winter's Domain
+  m_EditorClassIdentifier: 
+  skillType: 1
+  skillIcon: {fileID: 21300000, guid: 2a6bbc03b14333941967cc4aaede8b5d, type: 3}
+  skillName: Winter's Domain
+  skillPrice: 15000
+  skillDescription: "L\xE0m L\u1EA1nh k\u1EBB \u0111\u1ECBch X% trong X gi\xE2y."
+  nameKey: Winter'sDomain
+  descriptionKey: Winter'sDomainDescription
+  tableName: MaigcSkills

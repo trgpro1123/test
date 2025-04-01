@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af35642659ccdf45a9149d7c3f0b76a, type: 3}
+  m_Name: High-Quality Magic Boots
+  m_EditorClassIdentifier: 
+  itemType: 1
+  defaultItemName: 
+  icon: {fileID: 21300000, guid: ac188b2536a6ace4f814c2c18b2648b7, type: 3}
+  dropChance: 0
+  itemID: f50e6755f383b044182401e9bff2e515
+  itemNameKey: High-Quality Magic Boots
+  itemDescriptionKey: 
+  tableReference: BootsItem
+  equipmentType: 6
+  itemCooldown: 0
+  health: 20
+  strength: 5
+  armor: 1
+  agility: 2
+  moveSpeed: 0
+  lifesteal: 0
+  critChance: 0
+  magicPower: 10
+  magicResistance: 2
+  magicRegeneration: 3
+  luck: 0
+  coolDown: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 570a1ac631b16e347ae3e704577bd9ce, type: 2}
+    stackSize: 5
+  - itemData: {fileID: 11400000, guid: 4315e84cd0bc82948a457a2a0cb1a1db, type: 2}
+    stackSize: 10
+  - itemData: {fileID: 11400000, guid: fac897f7a74e75a468a9d097d0ae66ff, type: 2}
+    stackSize: 10
+  - itemData: {fileID: 11400000, guid: 468184b8730dab844bef22d495b826f3, type: 2}
+    stackSize: 10
+  - itemData: {fileID: 11400000, guid: 5fc0e064f94b01449a5f800215f2c957, type: 2}
+    stackSize: 10
+  - itemData: {fileID: 11400000, guid: a576bf9802e3a48419d27c0e0154f516, type: 2}
+    stackSize: 10

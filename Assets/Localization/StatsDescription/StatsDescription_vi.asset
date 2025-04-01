@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StatsDescription_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 9a722746af27ecd4e9762b914248fddc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11563167744
+    m_Localized: "Ch\u1EC9 s\u1ED1 M\xE1u (1 \u0111i\u1EC3m b\u1EB1ng 1 \u0111i\u1EC3m
+      m\xE1u t\u1ED1i \u0111a)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90122481664
+    m_Localized: "Ch\u1EC9 s\u1ED1 S\u1EE9c m\u1EA1nh, t\u0103ng s\u1EE9c m\u1EA1nh
+      t\u1EA5n c\xF4ng v\u1EADt l\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120250167296
+    m_Localized: "Ch\u1EC9 s\u1ED1 gi\xE1p, gi\u1EA3m s\xE1t th\u01B0\u01A1ng v\u1EADt
+      l\xFD nh\u1EADn v\xE0o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210209599488
+    m_Localized: "Ch\u1EC9 s\u1ED1 linh ho\u1EA1t, t\u0103ng t\u1EC9 l\u1EC7 n\xE9
+      tr\xE1nh \u0111\xF2n t\u1EA5n c\xF4ng (t\u1ED1i \u0111a 50)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247220137984
+    m_Localized: "Ch\u1EC9 s\u1ED1 t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316006723584
+    m_Localized: "Ch\u1EC9 s\u1ED1 h\xFAt m\xE1u, h\u1ED3i m\xE1u b\u1EB1ng s\xE1t
+      th\u01B0\u01A1ng g\xE2y ra\n(1 \u0111i\u1EC3m t\u0103ng 0.1)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365298184192
+    m_Localized: "Ch\u1EC9 s\u1ED1 ch\xED m\u1EA1ng, g\xE2y g\u1EA5p \u0111\xF4i
+      s\xE1t th\u01B0\u01A1ng khi \u0111\xE1nh ch\xED m\u1EA1ng (t\u1ED1i \u0111a
+      100)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394121441280
+    m_Localized: "Ch\u1EC9 s\u1ED1 s\u1EE9c m\u1EA1nh ph\xE9p thu\u1EADt, t\u0103ng
+      s\u1EE9c m\u1EA1nh ph\xE9p thu\u1EADt (1 \u0111i\u1EC3m ph\xE9p thu\u1EADt
+      b\u1EB1ng 3 \u0111i\u1EC3m n\u0103ng l\u01B0\u1EE3ng t\u1ED1i \u0111a)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431765319680
+    m_Localized: "Ch\u1EC9 s\u1ED1 kh\xE1ng ph\xE9p thu\u1EADt, gi\u1EA3m s\xE1t
+      th\u01B0\u01A1ng ph\xE9p thu\u1EADt nh\u1EADn v\xE0o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476627595264
+    m_Localized: "Ch\u1EC9 s\u1ED1 h\u1ED3i N\u0103ng l\u01B0\u1EE3ng, t\u0103ng
+      kh\u1EA3 n\u0103ng h\u1ED3i N\u0103ng l\u01B0\u1EE3ng (10 \u0111i\u1EC3m h\u1ED3i
+      1 n\u0103ng l\u01B0\u1EE3ng tr\xEAn gi\xE2y)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 564808642560
+    m_Localized: "Ch\u1EC9 s\u1ED1 may m\u1EAFn, c\u1ED9ng th\xEAm ch\u1EC9 s\u1ED1
+      T.L.Ch\xED m\u1EA1ng, t\u1EC9 l\u1EC7 r\u1EDBt v\u1EADt ph\u1EA9m. (1 \u0111i\u1EC3m
+      t\u0103ng 1)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576653357056
+    m_Localized: "Ch\u1EC9 s\u1ED1 gi\u1EA3m h\u1ED3i chi\xEAu (t\u1ED1i \u0111a
+      50)"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

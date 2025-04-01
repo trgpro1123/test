@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Comet Drop
+  m_EditorClassIdentifier: 
+  skillType: 1
+  skillIcon: {fileID: 21300000, guid: 1f8491626e8d17744a0ff1dcc4a256aa, type: 3}
+  skillName: Comet Drop
+  skillPrice: 7000
+  skillDescription: "B\u0103n 1 m\u0169i t\xEAn l\xEAn tr\u1EDDi v\xE0 r\u01A1i xu\u1ED1ng
+    n\u01A1i ch\u1EC9 \u0111\u1ECBnh g\xE2y <color=#00FFFF>X(+X%) Magic Power</color>,
+    sau khi ph\xE1t n\u1ED5 s\u1EBD t\u1EA1o ra 1 v\xF9ng l\u1EEDa t\u1ED3n t\u1EA1i
+    trong X gi\xE2y, g\xE2y s\xE1t th\u01B0\u01A1ng li\xEAn t\u1EE5c b\u1EB1ng  <color=#00FFFF>X%
+    Magic Power</color>."
+  nameKey: CometDrop
+  descriptionKey: CometDropDescription
+  tableName: BowSkills

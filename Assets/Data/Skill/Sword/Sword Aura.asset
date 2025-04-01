@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Sword Aura
+  m_EditorClassIdentifier: 
+  skillType: 1
+  skillIcon: {fileID: 21300000, guid: 12b76d3cd4aa6e445aeaa758ea4e67f8, type: 3}
+  skillName: Sword Aura
+  skillPrice: 3900
+  skillDescription: "Ch\xE9m b\u1EB1ng l\u01B0\u1EE1i g\u01B0\u01A1ng Aura g\xE2y
+    <color=#FF0000>150% Strength</color>."
+  nameKey: SwordAura
+  descriptionKey: SwordAuraDescription
+  tableName: SwordSkills

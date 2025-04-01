@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Vietnamese (vi)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Vietnamese (vi)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1056ef61ab860b043b2ec4954ff56623
+  m_SerializeEntries:
+  - m_GUID: 1724ad4009b493141ba0a8aa0b39d407
+    m_Address: EquipmentType_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18ee11fc44217de46b24fec6d803ff53
+    m_Address: GauntletItems_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34fedd7345bbea64bb794d3a95efc588
+    m_Address: WeaponItem_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 401bd48352ae54b4d825e8fd62bfb068
+    m_Address: RingItem_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49195fa22fa24dc439246785b9396002
+    m_Address: Status_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ffa3d871cfead249b1fb776a9ed760a
+    m_Address: StringExample_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6930fe1fe4eb25c43b2649c3f7578c88
+    m_Address: SwordSkills_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e4d0ea8a9666c04189a3f2e6077d007
+    m_Address: HowToPlay_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71d6f194b0c1fce42aacdc8ff67c0bd3
+    m_Address: GauntletSkills_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 742817391227b52409afcc4f31eb4678
+    m_Address: UI_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a0f67c9d60d1534194746146a36e10c
+    m_Address: Dialogues_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e4bd22280b68b45b52dac79b9d83d3
+    m_Address: ArmorItem_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8af7dbf3883248d438874044b70820df
+    m_Address: PopUptext_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97627b2f3261e684380a7c05b75b9733
+    m_Address: New Table_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99da277e2ab7b004aaa32b747dffda1d
+    m_Address: HelmetItem_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a59501c22fe13d140acc0861cb37829a
+    m_Address: ItemEffectDescription_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bde12e2f71bb8e54b88b0a2c6044ceca
+    m_Address: Stats_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c094ca141bb370d4da0ef1136808a74b
+    m_Address: BootsItem_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cba17ce754f8fff4d88d1030fe102259
+    m_Address: StatsDescription_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc106f36ed98ece49a29a83b07e65f18
+    m_Address: PantsItem_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d94bbd8ec852cb44d88d237fbe2d3f75
+    m_Address: Material_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec6bc925da6b1e44e88132c9899ce29f
+    m_Address: BowSkills_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f51b1f5d30903f54c9958238a5d57168
+    m_Address: StatusDescription_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb88123df143b845a28a22ea2c35232
+    m_Address: MaigcSkills_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: d95873cbced5eed41931e687e74560d9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ece4ce9eede6df9459be52ac1101bea0, type: 2}
+    - {fileID: 11400000, guid: 0f7afa326ae220a468c498006d00c6db, type: 2}

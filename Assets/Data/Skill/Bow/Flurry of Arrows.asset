@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d29eb061ffa0674bb73523dcdd5f18c, type: 3}
+  m_Name: Flurry of Arrows
+  m_EditorClassIdentifier: 
+  skillType: 1
+  skillIcon: {fileID: 21300000, guid: 371477435661e39428b59223831923c4, type: 3}
+  skillName: Flurry of Arrows
+  skillPrice: 6000
+  skillDescription: "B\u1EAFn t\xEAn li\xEAn t\u1EE5c trong X gi\xE2y."
+  nameKey: FlurryofArrows
+  descriptionKey: FlurryofArrowsDescription
+  tableName: BowSkills

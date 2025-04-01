@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MaigcSkills_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9f32326069da4bb49a0db98910fa6fc0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 679229255680
+    m_Localized: Blood Ritual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 718383083520
+    m_Localized: Chrono Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 936994402304
+    m_Localized: Cooldown Reduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1029772406784
+    m_Localized: Crystalis Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1122751737856
+    m_Localized: Energy Absorption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2044823334912
+    m_Localized: Energy Bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097336020992
+    m_Localized: Energy Flow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2226856128512
+    m_Localized: Ion Cannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2303494451200
+    m_Localized: Life Reap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2358989287424
+    m_Localized: Lifeforce Restoration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411472613376
+    m_Localized: Luckyyy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2693061406720
+    m_Localized: Mana Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2730709479424
+    m_Localized: Mana Reservoir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2779799613440
+    m_Localized: Mana Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2828084441088
+    m_Localized: "Mana\u2019s Grace"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2877275238400
+    m_Localized: Masterful Technique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2914784899072
+    m_Localized: Ultimate Explosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2958510518272
+    m_Localized: Winter's Domain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699361914880
+    m_Localized: Consume 5% of maximum health to increase Strength and Magic Power
+      by 15% for 30 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742949122048
+    m_Localized: Create a time-freeze zone where affected enemies are frozen in time,
+      lasting for 5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974403399680
+    m_Localized: Increase cooldown by 5 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057618391040
+    m_Localized: Create a crystal at the character's position for 5 seconds. When
+      reactivated, swap the character's position with the crystal, and the crystal
+      will explode, dealing <color=#00FFFF>400(+30%) Magic Power</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1979828400128
+    m_Localized: Restore 10% mana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2078180634624
+    m_Localized: Shoot an energy ball traveling in a straight line that explodes
+      on impact, dealing <color=#00FFFF>500(+30%) Magic Power</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2202701131776
+    m_Localized: Increase mana regeneration by 10 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2265779269632
+    m_Localized: Fire a laser beam in a straight line, dealing <color=#00FFFF>100
+      (+50%) Magic Damage</color> continuously for 5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327821414400
+    m_Localized: Restore 5 health points upon defeating an enemy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2383119118336
+    m_Localized: Restore 10% of maximum health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2440266510336
+    m_Localized: Increase Luck by 5 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2712019660800
+    m_Localized: There is a 20% chance that skill usage will not consume Mana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2758358331392
+    m_Localized: Increase Magic Power by 10 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2804931883008
+    m_Localized: Increase Magic Resistance by 20 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2855397748736
+    m_Localized: Instantly restore 100% mana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2898984955904
+    m_Localized: Restore 10% energy when using a skill.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2939552264192
+    m_Localized: Charge for 3 seconds and explode, dealing large area damage equal
+      to <color=#00FFFF>2500(+100%) Magic Power</color>, but lose 33% of maximum
+      health (the higher the maximum health,  can result in self-destruction).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984615866368
+    m_Localized: Apply a Freeze effect to enemies around you within a large radius,
+      slowing them by 50% for 10 seconds.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

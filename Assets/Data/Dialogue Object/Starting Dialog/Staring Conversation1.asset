@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 038d11c76fc82a446ae91b4a972ab4c1, type: 3}
+  m_Name: Staring Conversation1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - ...
+  - ...?
+  - "C\xF3 ai \u1EDF \u0111\xF3 kh\xF4ng?"
+  - "Xin ch\xE0o."
+  - "Ch\u1EAFc h\u1EB3n l\xFAc n\xE0y b\u1EA1n \u0111ang r\u1EA5t b\u1ED1i r\u1ED1i
+    v\xE0 c\xF3 nhi\u1EC1u c\xE2u h\u1ECFi. T\xF4i c\u0169ng v\u1EADy. Th\u1EF1c
+    ra, t\xF4i kh\xF4ng ch\u1EAFc c\xF3 th\u1EC3 tr\u1EA3 l\u1EDDi t\u1EA5t c\u1EA3,
+    nh\u01B0ng t\xF4i s\u1EBD n\xF3i cho b\u1EA1n nh\u1EEFng g\xEC t\xF4i bi\u1EBFt."
+  response:
+  - responseText: day la dau
+    dialogueObject: {fileID: 11400000, guid: 956a0a22d41a33541a835c6d0e05b1eb, type: 2}
+    button: {fileID: 0}
+    responseTextKey: StaringConversationRespone1
+  tableReference: Dialogues
+  dialogueKeys:
+  - StaringConversation1_1
+  - StaringConversation1_2
+  - StaringConversation1_3
+  - StaringConversation1_4
+  - StaringConversation1_5

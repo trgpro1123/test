@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HowToPlay_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 652233926d70ec7429151c2e83611ae3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 27326212993024
+    m_Localized: 'W, A, S, D: Move'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27344634376192
+    m_Localized: 'Space: Jump'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27369766645760
+    m_Localized: 'I: Open inventory'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27380097216512
+    m_Localized: 'O: Open settings'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27405736996864
+    m_Localized: 'K: Open skill tree'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27422279331840
+    m_Localized: 'C: Open crafting menu'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27459625414656
+    m_Localized: 'Click Mouse: Equip/Unequip item'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27670380802048
+    m_Localized: 'Right Click: Equip skill'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27435734659072
+    m_Localized: 'Ctrl + Click: Discard equipment'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27751079211008
+    m_Localized: 'Left Click: Unlock skill'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28841162043392
+    m_Localized: 'Left Mouse, Right Mouse, 1, 2, 3, 4: Use skills'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28978835877888
+    m_Localized: 'Q: Switch weapon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36649416781824
+    m_Localized: Base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316718588620800
+    m_Localized: 'F: Interact'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

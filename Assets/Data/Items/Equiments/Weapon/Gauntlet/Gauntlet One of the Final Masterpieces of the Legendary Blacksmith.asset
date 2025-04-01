@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6fc740e647cb274cb9ef8cc6b546b61, type: 3}
+  m_Name: Gauntlet One of the Final Masterpieces of the Legendary Blacksmith
+  m_EditorClassIdentifier: 
+  itemType: 1
+  defaultItemName: 
+  icon: {fileID: 21300000, guid: 3f8899117bef3c44e89222c46b52b0b6, type: 3}
+  dropChance: 0
+  itemID: 953d2efbf11a28141a7a1bcaa375be1a
+  itemNameKey: Gauntlet One of the Final Masterpieces of the Legendary Blacksmith
+  itemDescriptionKey: 
+  tableReference: WeaponItem
+  equipmentType: 0
+  itemCooldown: 0
+  health: 200
+  strength: 600
+  armor: 5
+  agility: 1
+  moveSpeed: 0
+  lifesteal: 0
+  critChance: 5
+  magicPower: 0
+  magicResistance: 3
+  magicRegeneration: 5
+  luck: 0
+  coolDown: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 3056fcc0f1f330d418239f7f5c412db6, type: 2}
+    stackSize: 5
+  - itemData: {fileID: 11400000, guid: 4a268eefd9036754ab498030899dec57, type: 2}
+    stackSize: 5
+  - itemData: {fileID: 11400000, guid: 7daa8d405d0ec5d4f8bccddc535e3713, type: 2}
+    stackSize: 5
+  - itemData: {fileID: 11400000, guid: 1536666224fc95f41becea175af4c363, type: 2}
+    stackSize: 5
+  - itemData: {fileID: 11400000, guid: 9edcb3c5b6d1029488d1eab5f24f999e, type: 2}
+    stackSize: 5
+  weaponType: 2

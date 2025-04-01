@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 9bdeeb5856097aa43a661ae39e8ca735
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35efcdbf0ffbc3b4186d3c11d760c843
+      internalID: 1234913711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d365f207086d547946b6c683268910
+      internalID: -1262709683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1af74810afa3e45bfb6adb266f6371
+      internalID: 1885033536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c3e8c7b8f0e445b9e2ec1a69cf18c
+      internalID: -597355678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae934c9741d0145b0b25dbd883ef93
+      internalID: -922604038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9743c992bc964d24ca82e19dceef9d55
+      internalID: 1727489822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2122f94f61d10c4eb9edf04788906de
+      internalID: -1396790036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f433644660f73488388d91125cf2bb
+      internalID: 1409487768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb65c54df10f6349a1f1e7f901dda30
+      internalID: 1757243503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8cd9fdf1fb6c34c930f9863f9f72e5
+      internalID: 1720304392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8bc7967f7594e49af94200cc977367
+      internalID: 1962516297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c043b10fa01c419b2bb4db519709f
+      internalID: -245000635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68553f1fe8f9ca6469a471a3d4e481f7
+      internalID: 836352403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce9de233519e6489192f0ddf3ca181
+      internalID: 635861143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb5909e703a09b4abf68b76813a3bdd
+      internalID: 2075138547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ece2631f9868144955f1a17e6fab02
+      internalID: 677279172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f8868d1c3eed4b926bf8eba8e5ff8
+      internalID: 1609714037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11314976d213dd4db6519c9bae41304
+      internalID: 2068586605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53d786b797a1064cb908ef11014fd85
+      internalID: 271504197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767eb9b18d3c174bb996342ac2d5183
+      internalID: 2049850437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e7f9c189414b44b5f7159ddf821fa
+      internalID: -332118980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9bcece1176142418a524dcf0e82a8b
+      internalID: 328536100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ee556110248c44809976782c9c25a
+      internalID: -101175695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2410ddc58f69d9499b533b5c45fa740
+      internalID: -173820339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet 24x24 Free  Part 1B_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f0020086e66a4c99d6cca72da7b4d
+      internalID: -340243228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bullet 24x24 Free  Part 1B_0: 1234913711
+      Bullet 24x24 Free  Part 1B_1: -1262709683
+      Bullet 24x24 Free  Part 1B_10: 1962516297
+      Bullet 24x24 Free  Part 1B_100: -598696959
+      Bullet 24x24 Free  Part 1B_101: -943726927
+      Bullet 24x24 Free  Part 1B_102: 364248637
+      Bullet 24x24 Free  Part 1B_103: 504067673
+      Bullet 24x24 Free  Part 1B_104: 2009409390
+      Bullet 24x24 Free  Part 1B_105: -1643091101
+      Bullet 24x24 Free  Part 1B_106: 797172425
+      Bullet 24x24 Free  Part 1B_107: -893639747
+      Bullet 24x24 Free  Part 1B_108: 383253198
+      Bullet 24x24 Free  Part 1B_109: -592160425
+      Bullet 24x24 Free  Part 1B_11: -245000635
+      Bullet 24x24 Free  Part 1B_110: -1790260623
+      Bullet 24x24 Free  Part 1B_111: -1397973572
+      Bullet 24x24 Free  Part 1B_112: 953391190
+      Bullet 24x24 Free  Part 1B_113: 743350677
+      Bullet 24x24 Free  Part 1B_114: 1545228539
+      Bullet 24x24 Free  Part 1B_115: 1551856229
+      Bullet 24x24 Free  Part 1B_116: 1136530961
+      Bullet 24x24 Free  Part 1B_117: 1283688904
+      Bullet 24x24 Free  Part 1B_118: 1320674959
+      Bullet 24x24 Free  Part 1B_119: -1167694278
+      Bullet 24x24 Free  Part 1B_12: 836352403
+      Bullet 24x24 Free  Part 1B_120: -1301147599
+      Bullet 24x24 Free  Part 1B_121: -1807707793
+      Bullet 24x24 Free  Part 1B_122: -336654439
+      Bullet 24x24 Free  Part 1B_123: -57860212
+      Bullet 24x24 Free  Part 1B_124: 219447877
+      Bullet 24x24 Free  Part 1B_125: 1677879395
+      Bullet 24x24 Free  Part 1B_126: -290867153
+      Bullet 24x24 Free  Part 1B_127: -1019143372
+      Bullet 24x24 Free  Part 1B_128: 1830920282
+      Bullet 24x24 Free  Part 1B_129: 1790717333
+      Bullet 24x24 Free  Part 1B_13: 635861143
+      Bullet 24x24 Free  Part 1B_130: 486905728
+      Bullet 24x24 Free  Part 1B_131: -1672820599
+      Bullet 24x24 Free  Part 1B_132: 829870575
+      Bullet 24x24 Free  Part 1B_133: 1087129756
+      Bullet 24x24 Free  Part 1B_134: 1826983849
+      Bullet 24x24 Free  Part 1B_135: -235479223
+      Bullet 24x24 Free  Part 1B_136: 1259159763
+      Bullet 24x24 Free  Part 1B_137: 2033988768
+      Bullet 24x24 Free  Part 1B_138: -1362948354
+      Bullet 24x24 Free  Part 1B_139: 1554111169
+      Bullet 24x24 Free  Part 1B_14: 2075138547
+      Bullet 24x24 Free  Part 1B_140: 93351624
+      Bullet 24x24 Free  Part 1B_141: 519054024
+      Bullet 24x24 Free  Part 1B_142: -853086540
+      Bullet 24x24 Free  Part 1B_143: 307788536
+      Bullet 24x24 Free  Part 1B_144: 1090715635
+      Bullet 24x24 Free  Part 1B_145: -380212209
+      Bullet 24x24 Free  Part 1B_146: 35561871
+      Bullet 24x24 Free  Part 1B_147: 1172630058
+      Bullet 24x24 Free  Part 1B_148: -12115049
+      Bullet 24x24 Free  Part 1B_149: 303224992
+      Bullet 24x24 Free  Part 1B_15: 677279172
+      Bullet 24x24 Free  Part 1B_150: -2113722798
+      Bullet 24x24 Free  Part 1B_151: -738558325
+      Bullet 24x24 Free  Part 1B_152: -316054608
+      Bullet 24x24 Free  Part 1B_153: -905371518
+      Bullet 24x24 Free  Part 1B_154: 1848504820
+      Bullet 24x24 Free  Part 1B_155: -1024562940
+      Bullet 24x24 Free  Part 1B_156: 598625271
+      Bullet 24x24 Free  Part 1B_157: 1243018197
+      Bullet 24x24 Free  Part 1B_158: -833243604
+      Bullet 24x24 Free  Part 1B_159: 212645420
+      Bullet 24x24 Free  Part 1B_16: 1609714037
+      Bullet 24x24 Free  Part 1B_160: 292284928
+      Bullet 24x24 Free  Part 1B_161: -429483043
+      Bullet 24x24 Free  Part 1B_162: 722358373
+      Bullet 24x24 Free  Part 1B_163: -2006597045
+      Bullet 24x24 Free  Part 1B_164: 384964799
+      Bullet 24x24 Free  Part 1B_165: -1129124566
+      Bullet 24x24 Free  Part 1B_166: 1764562175
+      Bullet 24x24 Free  Part 1B_167: 587870056
+      Bullet 24x24 Free  Part 1B_168: 1549784849
+      Bullet 24x24 Free  Part 1B_169: -974385177
+      Bullet 24x24 Free  Part 1B_17: 2068586605
+      Bullet 24x24 Free  Part 1B_170: 834537703
+      Bullet 24x24 Free  Part 1B_171: -410046350
+      Bullet 24x24 Free  Part 1B_172: 1035785615
+      Bullet 24x24 Free  Part 1B_173: -2073550310
+      Bullet 24x24 Free  Part 1B_174: 1189294920
+      Bullet 24x24 Free  Part 1B_175: -392086219
+      Bullet 24x24 Free  Part 1B_176: -1207844839
+      Bullet 24x24 Free  Part 1B_177: 1449207358
+      Bullet 24x24 Free  Part 1B_178: 851398051
+      Bullet 24x24 Free  Part 1B_179: -1771071061
+      Bullet 24x24 Free  Part 1B_18: 271504197
+      Bullet 24x24 Free  Part 1B_180: -1440167338
+      Bullet 24x24 Free  Part 1B_181: -379108606
+      Bullet 24x24 Free  Part 1B_182: 1955588467
+      Bullet 24x24 Free  Part 1B_183: -428647225
+      Bullet 24x24 Free  Part 1B_184: -1119788711
+      Bullet 24x24 Free  Part 1B_185: -178349346
+      Bullet 24x24 Free  Part 1B_186: 2004579965
+      Bullet 24x24 Free  Part 1B_187: -1719950692
+      Bullet 24x24 Free  Part 1B_188: 2138665513
+      Bullet 24x24 Free  Part 1B_189: -1711674397
+      Bullet 24x24 Free  Part 1B_19: 2049850437
+      Bullet 24x24 Free  Part 1B_190: -759887522
+      Bullet 24x24 Free  Part 1B_191: -589233651
+      Bullet 24x24 Free  Part 1B_192: -1895394045
+      Bullet 24x24 Free  Part 1B_193: -130803137
+      Bullet 24x24 Free  Part 1B_194: -43310373
+      Bullet 24x24 Free  Part 1B_195: -203420774
+      Bullet 24x24 Free  Part 1B_196: 28986025
+      Bullet 24x24 Free  Part 1B_197: -1672047005
+      Bullet 24x24 Free  Part 1B_198: 984574721
+      Bullet 24x24 Free  Part 1B_199: -1937090681
+      Bullet 24x24 Free  Part 1B_2: 1885033536
+      Bullet 24x24 Free  Part 1B_20: -332118980
+      Bullet 24x24 Free  Part 1B_200: -795826478
+      Bullet 24x24 Free  Part 1B_201: -1769171556
+      Bullet 24x24 Free  Part 1B_202: -722028902
+      Bullet 24x24 Free  Part 1B_203: 1672851360
+      Bullet 24x24 Free  Part 1B_204: -645391285
+      Bullet 24x24 Free  Part 1B_205: -1556970603
+      Bullet 24x24 Free  Part 1B_206: 551050050
+      Bullet 24x24 Free  Part 1B_207: -515515114
+      Bullet 24x24 Free  Part 1B_208: -1751002362
+      Bullet 24x24 Free  Part 1B_209: 1848014760
+      Bullet 24x24 Free  Part 1B_21: 328536100
+      Bullet 24x24 Free  Part 1B_210: -333665100
+      Bullet 24x24 Free  Part 1B_211: 138083527
+      Bullet 24x24 Free  Part 1B_212: -1268125054
+      Bullet 24x24 Free  Part 1B_213: -155966626
+      Bullet 24x24 Free  Part 1B_214: -366536360
+      Bullet 24x24 Free  Part 1B_215: -267441069
+      Bullet 24x24 Free  Part 1B_216: -1878288959
+      Bullet 24x24 Free  Part 1B_217: -332458363
+      Bullet 24x24 Free  Part 1B_218: -621854986
+      Bullet 24x24 Free  Part 1B_219: 1025604232
+      Bullet 24x24 Free  Part 1B_22: -101175695
+      Bullet 24x24 Free  Part 1B_220: -363979485
+      Bullet 24x24 Free  Part 1B_221: 721217765
+      Bullet 24x24 Free  Part 1B_222: -1990119386
+      Bullet 24x24 Free  Part 1B_223: -2100126614
+      Bullet 24x24 Free  Part 1B_224: -1641867564
+      Bullet 24x24 Free  Part 1B_225: 1686101831
+      Bullet 24x24 Free  Part 1B_226: -511167524
+      Bullet 24x24 Free  Part 1B_227: -1526720374
+      Bullet 24x24 Free  Part 1B_228: 1128200925
+      Bullet 24x24 Free  Part 1B_229: -869498831
+      Bullet 24x24 Free  Part 1B_23: -173820339
+      Bullet 24x24 Free  Part 1B_230: 1034029119
+      Bullet 24x24 Free  Part 1B_231: 857966160
+      Bullet 24x24 Free  Part 1B_232: -1963354040
+      Bullet 24x24 Free  Part 1B_233: -1680443702
+      Bullet 24x24 Free  Part 1B_234: -1968515647
+      Bullet 24x24 Free  Part 1B_235: -1722795867
+      Bullet 24x24 Free  Part 1B_236: 1709613748
+      Bullet 24x24 Free  Part 1B_237: -143973789
+      Bullet 24x24 Free  Part 1B_238: -1417440650
+      Bullet 24x24 Free  Part 1B_239: 992457258
+      Bullet 24x24 Free  Part 1B_24: -340243228
+      Bullet 24x24 Free  Part 1B_240: -1733633651
+      Bullet 24x24 Free  Part 1B_241: -1392648829
+      Bullet 24x24 Free  Part 1B_242: -1554116804
+      Bullet 24x24 Free  Part 1B_243: -702024169
+      Bullet 24x24 Free  Part 1B_244: -5938660
+      Bullet 24x24 Free  Part 1B_245: -1264244894
+      Bullet 24x24 Free  Part 1B_246: 2140645600
+      Bullet 24x24 Free  Part 1B_247: -554513295
+      Bullet 24x24 Free  Part 1B_248: 1384585975
+      Bullet 24x24 Free  Part 1B_249: 1964875604
+      Bullet 24x24 Free  Part 1B_25: -294343360
+      Bullet 24x24 Free  Part 1B_250: -1691137772
+      Bullet 24x24 Free  Part 1B_251: 1765281464
+      Bullet 24x24 Free  Part 1B_252: 1613568914
+      Bullet 24x24 Free  Part 1B_253: 328129780
+      Bullet 24x24 Free  Part 1B_254: 729242101
+      Bullet 24x24 Free  Part 1B_255: 214151811
+      Bullet 24x24 Free  Part 1B_256: 2055837212
+      Bullet 24x24 Free  Part 1B_257: -1998637877
+      Bullet 24x24 Free  Part 1B_258: -806078012
+      Bullet 24x24 Free  Part 1B_259: 1977629043
+      Bullet 24x24 Free  Part 1B_26: 647939794
+      Bullet 24x24 Free  Part 1B_260: -1495869129
+      Bullet 24x24 Free  Part 1B_261: 1738873853
+      Bullet 24x24 Free  Part 1B_262: 481710999
+      Bullet 24x24 Free  Part 1B_263: 1494937896
+      Bullet 24x24 Free  Part 1B_264: -1165880113
+      Bullet 24x24 Free  Part 1B_265: -454126913
+      Bullet 24x24 Free  Part 1B_266: 1611395359
+      Bullet 24x24 Free  Part 1B_267: 886192898
+      Bullet 24x24 Free  Part 1B_268: 1930699843
+      Bullet 24x24 Free  Part 1B_269: -1685191495
+      Bullet 24x24 Free  Part 1B_27: -584053535
+      Bullet 24x24 Free  Part 1B_270: 1119453062
+      Bullet 24x24 Free  Part 1B_271: -1459728704
+      Bullet 24x24 Free  Part 1B_272: 635469839
+      Bullet 24x24 Free  Part 1B_273: 1047342165
+      Bullet 24x24 Free  Part 1B_274: 201006729
+      Bullet 24x24 Free  Part 1B_275: 1015979197
+      Bullet 24x24 Free  Part 1B_276: 1644872701
+      Bullet 24x24 Free  Part 1B_277: -383839907
+      Bullet 24x24 Free  Part 1B_278: 2103505332
+      Bullet 24x24 Free  Part 1B_279: 511900878
+      Bullet 24x24 Free  Part 1B_28: -2074850432
+      Bullet 24x24 Free  Part 1B_280: 1450536470
+      Bullet 24x24 Free  Part 1B_281: 1115936451
+      Bullet 24x24 Free  Part 1B_282: -1415296986
+      Bullet 24x24 Free  Part 1B_283: 1674986735
+      Bullet 24x24 Free  Part 1B_284: -1083393558
+      Bullet 24x24 Free  Part 1B_285: 2058286975
+      Bullet 24x24 Free  Part 1B_286: 71392165
+      Bullet 24x24 Free  Part 1B_287: -1843065991
+      Bullet 24x24 Free  Part 1B_288: 604016213
+      Bullet 24x24 Free  Part 1B_289: -604434736
+      Bullet 24x24 Free  Part 1B_29: 1093615903
+      Bullet 24x24 Free  Part 1B_290: 172945173
+      Bullet 24x24 Free  Part 1B_291: 1265753208
+      Bullet 24x24 Free  Part 1B_292: -1175933826
+      Bullet 24x24 Free  Part 1B_293: 636958427
+      Bullet 24x24 Free  Part 1B_294: 903594462
+      Bullet 24x24 Free  Part 1B_295: -1407883297
+      Bullet 24x24 Free  Part 1B_296: 436503954
+      Bullet 24x24 Free  Part 1B_297: 319573287
+      Bullet 24x24 Free  Part 1B_298: 1665150024
+      Bullet 24x24 Free  Part 1B_299: 2138339919
+      Bullet 24x24 Free  Part 1B_3: -597355678
+      Bullet 24x24 Free  Part 1B_30: 850658767
+      Bullet 24x24 Free  Part 1B_300: 633106734
+      Bullet 24x24 Free  Part 1B_301: -465622037
+      Bullet 24x24 Free  Part 1B_302: -1196525718
+      Bullet 24x24 Free  Part 1B_303: -1197914865
+      Bullet 24x24 Free  Part 1B_304: -582072932
+      Bullet 24x24 Free  Part 1B_305: -326839401
+      Bullet 24x24 Free  Part 1B_306: -981110889
+      Bullet 24x24 Free  Part 1B_307: 1303401117
+      Bullet 24x24 Free  Part 1B_308: 682323551
+      Bullet 24x24 Free  Part 1B_309: 981893134
+      Bullet 24x24 Free  Part 1B_31: 1952585935
+      Bullet 24x24 Free  Part 1B_310: -1145686278
+      Bullet 24x24 Free  Part 1B_311: -1988575778
+      Bullet 24x24 Free  Part 1B_312: 2137599267
+      Bullet 24x24 Free  Part 1B_313: -204175845
+      Bullet 24x24 Free  Part 1B_314: 1733967957
+      Bullet 24x24 Free  Part 1B_315: 495658890
+      Bullet 24x24 Free  Part 1B_316: -861967774
+      Bullet 24x24 Free  Part 1B_317: 1721932520
+      Bullet 24x24 Free  Part 1B_318: 1387208024
+      Bullet 24x24 Free  Part 1B_319: 15571562
+      Bullet 24x24 Free  Part 1B_32: 1654719298
+      Bullet 24x24 Free  Part 1B_320: 1161542872
+      Bullet 24x24 Free  Part 1B_321: 281611964
+      Bullet 24x24 Free  Part 1B_322: -529420756
+      Bullet 24x24 Free  Part 1B_323: 174201746
+      Bullet 24x24 Free  Part 1B_324: -1145845641
+      Bullet 24x24 Free  Part 1B_325: -49660154
+      Bullet 24x24 Free  Part 1B_326: 498121185
+      Bullet 24x24 Free  Part 1B_327: 833816060
+      Bullet 24x24 Free  Part 1B_328: 873979223
+      Bullet 24x24 Free  Part 1B_329: -898760658
+      Bullet 24x24 Free  Part 1B_33: -117842689
+      Bullet 24x24 Free  Part 1B_330: 714175860
+      Bullet 24x24 Free  Part 1B_331: -582118736
+      Bullet 24x24 Free  Part 1B_332: -575383946
+      Bullet 24x24 Free  Part 1B_333: 2079913838
+      Bullet 24x24 Free  Part 1B_334: -221201373
+      Bullet 24x24 Free  Part 1B_335: 1535742998
+      Bullet 24x24 Free  Part 1B_336: 1677117372
+      Bullet 24x24 Free  Part 1B_337: -138192035
+      Bullet 24x24 Free  Part 1B_338: 1583857910
+      Bullet 24x24 Free  Part 1B_339: -540479262
+      Bullet 24x24 Free  Part 1B_34: -1503421343
+      Bullet 24x24 Free  Part 1B_340: 1761731862
+      Bullet 24x24 Free  Part 1B_341: -54869810
+      Bullet 24x24 Free  Part 1B_342: -353021677
+      Bullet 24x24 Free  Part 1B_343: 882081074
+      Bullet 24x24 Free  Part 1B_344: -1868074081
+      Bullet 24x24 Free  Part 1B_345: 82248556
+      Bullet 24x24 Free  Part 1B_346: -1377963295
+      Bullet 24x24 Free  Part 1B_347: 1050824877
+      Bullet 24x24 Free  Part 1B_348: -1766207568
+      Bullet 24x24 Free  Part 1B_349: -1537736796
+      Bullet 24x24 Free  Part 1B_35: 335608848
+      Bullet 24x24 Free  Part 1B_350: 1993636429
+      Bullet 24x24 Free  Part 1B_351: 1655093806
+      Bullet 24x24 Free  Part 1B_352: 975036973
+      Bullet 24x24 Free  Part 1B_353: 1486727586
+      Bullet 24x24 Free  Part 1B_354: 1999189986
+      Bullet 24x24 Free  Part 1B_355: 2067712397
+      Bullet 24x24 Free  Part 1B_356: -420538691
+      Bullet 24x24 Free  Part 1B_357: 1084643042
+      Bullet 24x24 Free  Part 1B_358: 1995457464
+      Bullet 24x24 Free  Part 1B_359: 2137182762
+      Bullet 24x24 Free  Part 1B_36: 1611593853
+      Bullet 24x24 Free  Part 1B_37: -1636844510
+      Bullet 24x24 Free  Part 1B_38: 165982015
+      Bullet 24x24 Free  Part 1B_39: -1108227743
+      Bullet 24x24 Free  Part 1B_4: -922604038
+      Bullet 24x24 Free  Part 1B_40: 1553367987
+      Bullet 24x24 Free  Part 1B_41: 1499498673
+      Bullet 24x24 Free  Part 1B_42: -1219776753
+      Bullet 24x24 Free  Part 1B_43: -521569335
+      Bullet 24x24 Free  Part 1B_44: 1092394805
+      Bullet 24x24 Free  Part 1B_45: 120413437
+      Bullet 24x24 Free  Part 1B_46: 472017617
+      Bullet 24x24 Free  Part 1B_47: 1274927737
+      Bullet 24x24 Free  Part 1B_48: 1370559561
+      Bullet 24x24 Free  Part 1B_49: 1218300848
+      Bullet 24x24 Free  Part 1B_5: 1727489822
+      Bullet 24x24 Free  Part 1B_50: 101423937
+      Bullet 24x24 Free  Part 1B_51: 1879839243
+      Bullet 24x24 Free  Part 1B_52: -713540320
+      Bullet 24x24 Free  Part 1B_53: 737700173
+      Bullet 24x24 Free  Part 1B_54: -497343723
+      Bullet 24x24 Free  Part 1B_55: 795493489
+      Bullet 24x24 Free  Part 1B_56: -1639619178
+      Bullet 24x24 Free  Part 1B_57: -2022842714
+      Bullet 24x24 Free  Part 1B_58: -2047250201
+      Bullet 24x24 Free  Part 1B_59: 563091191
+      Bullet 24x24 Free  Part 1B_6: -1396790036
+      Bullet 24x24 Free  Part 1B_60: 1219900212
+      Bullet 24x24 Free  Part 1B_61: 1866344885
+      Bullet 24x24 Free  Part 1B_62: -913248933
+      Bullet 24x24 Free  Part 1B_63: 39706714
+      Bullet 24x24 Free  Part 1B_64: 1491145776
+      Bullet 24x24 Free  Part 1B_65: -1517690118
+      Bullet 24x24 Free  Part 1B_66: 1623939256
+      Bullet 24x24 Free  Part 1B_67: 1495665390
+      Bullet 24x24 Free  Part 1B_68: 200196823
+      Bullet 24x24 Free  Part 1B_69: -1635190776
+      Bullet 24x24 Free  Part 1B_7: 1409487768
+      Bullet 24x24 Free  Part 1B_70: -78455365
+      Bullet 24x24 Free  Part 1B_71: -1329089901
+      Bullet 24x24 Free  Part 1B_72: -791858192
+      Bullet 24x24 Free  Part 1B_73: -1190081058
+      Bullet 24x24 Free  Part 1B_74: 323178965
+      Bullet 24x24 Free  Part 1B_75: -938448363
+      Bullet 24x24 Free  Part 1B_76: -284623017
+      Bullet 24x24 Free  Part 1B_77: 1131987819
+      Bullet 24x24 Free  Part 1B_78: -1443287415
+      Bullet 24x24 Free  Part 1B_79: -187040481
+      Bullet 24x24 Free  Part 1B_8: 1757243503
+      Bullet 24x24 Free  Part 1B_80: 1333244998
+      Bullet 24x24 Free  Part 1B_81: -629661465
+      Bullet 24x24 Free  Part 1B_82: 1891559137
+      Bullet 24x24 Free  Part 1B_83: -582540004
+      Bullet 24x24 Free  Part 1B_84: 1242513489
+      Bullet 24x24 Free  Part 1B_85: -714651663
+      Bullet 24x24 Free  Part 1B_86: 731242498
+      Bullet 24x24 Free  Part 1B_87: -1174285851
+      Bullet 24x24 Free  Part 1B_88: -1960926383
+      Bullet 24x24 Free  Part 1B_89: -546471093
+      Bullet 24x24 Free  Part 1B_9: 1720304392
+      Bullet 24x24 Free  Part 1B_90: 99657250
+      Bullet 24x24 Free  Part 1B_91: -1297958352
+      Bullet 24x24 Free  Part 1B_92: 277577476
+      Bullet 24x24 Free  Part 1B_93: 1687899472
+      Bullet 24x24 Free  Part 1B_94: 1647474541
+      Bullet 24x24 Free  Part 1B_95: 100381545
+      Bullet 24x24 Free  Part 1B_96: 937096339
+      Bullet 24x24 Free  Part 1B_97: 1125620749
+      Bullet 24x24 Free  Part 1B_98: 720133950
+      Bullet 24x24 Free  Part 1B_99: 1036600672
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

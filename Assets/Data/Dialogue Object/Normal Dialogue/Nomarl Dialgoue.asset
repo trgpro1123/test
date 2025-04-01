@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 038d11c76fc82a446ae91b4a972ab4c1, type: 3}
+  m_Name: Nomarl Dialgoue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "N\u1EBFu b\u1EA1n th\u1EA5t b\u1EA1i \u0111\u1EEBng n\u1EA3n l\xF2ng h\xE3y
+    th\u1EED l\u1EA1i. B\u1EB1ng ph\u01B0\u1EDBc l\xE0nh c\u1EE7a t\xF4i. B\u1EA1n
+    v\u1EABn c\xF3 th\u1EC3 quay l\u1EA1i. M\u1ED7i l\u1EA7n chi\u1EBFn \u0111\u1EA5u,
+    b\u1EA1n s\u1EBD m\u1EA1nh m\u1EBD h\u01A1n."
+  response:
+  - responseText: "Giao tinh th\u1EC3 linh h\u1ED3n"
+    dialogueObject: {fileID: 11400000, guid: 66b0b8d31f7a95746afab65cca1b098e, type: 2}
+    button: {fileID: 0}
+    responseTextKey: GiveSoulCrystalsRespone
+  - responseText: "B\u1EA1n l\xE0 ai"
+    dialogueObject: {fileID: 11400000, guid: bd96f983cdc7ecc46a69642a6b7679fe, type: 2}
+    button: {fileID: 0}
+    responseTextKey: WhoAreYouRespone1
+  - responseText: "Kh\xF4ng c\xF3 g\xEC"
+    dialogueObject: {fileID: 11400000, guid: e6014e77d08920e4da6e636bb85b250c, type: 2}
+    button: {fileID: 0}
+    responseTextKey: NothingRespone
+  tableReference: Dialogues
+  dialogueKeys:
+  - NomarDialogue1_1
